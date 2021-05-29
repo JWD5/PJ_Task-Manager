@@ -1,9 +1,31 @@
-/* Button Help */
+h1 {
+    font-size: 1.5rem;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aliceblue;
+    box-shadow: 3px 3px 2px rgb(52, 70, 70) ;
+    margin-top: 10px;
+    opacity: 0.5;
+}
+.image {
+    width: 40px;
 
-position: absolute;
-width: 56px;
-height: 45px;
-left: 1316px;
-top: 125px;
+}
+.label {
+    background-color: burlywood;
+    display: block;
+    width: 200px;
+}
+section {
 
-background: url(Screen Shot 2021-05-18 at 07.20.png);
+}
+.input {
+    width: 900px;
+}
+.form {
+    display: flex;
+    flex-direction: row;
+}
+
+
